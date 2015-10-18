@@ -128,9 +128,7 @@
     <dependency org="org.apache.gora" name="gora-cassandra" rev="0.5" conf="*->default" />
     -->
     <!-- Uncomment this to use MongoDB as Gora backend. -->
-    <!--
     <dependency org="org.apache.gora" name="gora-mongodb" rev="0.5" conf="*->default" />
-    -->    
     <!-- Uncomment this to use Solr as Gora backend. -->
     <!--
     <dependency org="org.apache.gora" name="gora-solr" rev="0.5" conf="*->default" />
